@@ -47,3 +47,18 @@ Utiliser le triple egal pour comparer booléen
 ```sh
 elmt.value === "comp"
 ```
+
+innerHTML = 
+innerText = 
+
+dom = la page dans le navigateur.
+
+méthode de tableau :
+
+```sh
+.push() pour ajouter un élément au tableau
+.pop() pour retirer une élément du tableau
+.shift() pour changer un élément du tableau
+.splice() 
+.slice() 
+```
