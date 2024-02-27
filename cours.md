@@ -62,3 +62,10 @@ méthode de tableau :
 .splice() 
 .slice() 
 ```
+depot git :
+
+```sh
+git status
+git add .
+git commit -m "Message de confirmation"
+```
